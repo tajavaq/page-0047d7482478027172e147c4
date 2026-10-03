@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "189d92a39b6205e712775817",
+  "owner": "tajavaq",
+  "repo": "page-0047d7482478027172e147c4",
+  "title": "BASHBORAD",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0047d7482478027172e147c4",
+      "a": "BASHBORAD",
+      "b": "",
+      "entity": "BASHBORAD",
+      "brand": "BASHBORAD",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0be4d14fb61aa375e93993307887863b1a141ba134aeddd4a2daa4e85fec7b3d",
+      "content": {
+        "keyword1": "BASHBORAD",
+        "keyword2": "",
+        "primary_entity": "BASHBORAD",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "BASHBORAD 官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载，覆盖办公、流媒体与游戏场景，并给出清晰的套餐与操作说明。",
+          "AI_DESCRIPTION": "BASHBORAD 官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载，覆盖办公、流媒体与游戏场景，并给出清晰的套餐与操作说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;background:#f3f1f6;color:#1c1528;font-family:\"PingFang SC\",\"Microsoft YaHei\",system-ui,sans-serif;font-size:17px;line-height:1.7}body{min-width:320px}a{color:#5b2db3;text-decoration:none}a:hover{text-decoration:underline}header,footer,.wrap{width:100%} .wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#2b1848;color:#f7f4fb;padding:14px 0}header .brand{font-weight:700;font-size:20px;letter-spacing:.04em}header nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:8px;font-size:15px}header nav a{color:#efe8ff}h1{font-size:28px;line-height:1.35;margin:0 0 12px;color:#2b1848}h2{font-size:22px;margin:0 0 12px;color:#3b1d6e}h3{font-size:18px;margin:18px 0 8px;color:#4c2a86}p{margin:0 0 12px}main{padding:24px 0 40px}.hero,.panel{background:#fff;border:1px solid #e4dcee;border-radius:12px;padding:20px;margin-bottom:18px}.lead{font-size:18px;color:#3d3350}.layout{display:flex;flex-wrap:wrap;gap:18px}.col-main{flex:1 1 640px;min-width:280px}.col-side{flex:1 1 280px;min-width:260px}.plans{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 240px;background:#faf8fc;border:1px solid #ddd3ea;border-radius:10px;padding:16px}.plan.featured{background:#f3edfb;border:2px solid #6d28d9}.price{font-size:22px;font-weight:700;color:#5b2db3;margin:6px 0}.muted{color:#5a5168;font-size:14px}.list{margin:0;padding-left:18px}.list li{margin:0 0 6px}.steps{counter-reset:step;margin:0;padding:0;list-style:none}.steps li{position:relative;padding:10px 12px 10px 44px;margin:0 0 8px;background:#f7f3fc;border-radius:8px}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:24px;height:24px;border-radius:50%;background:#6d28d9;color:#fff;font-size:13px;line-height:24px;text-align:center}details{background:#fff;border:1px solid #e4dcee;border-radius:8px;padding:10px 14px;margin:0 0 8px}summary{cursor:pointer;font-weight:600;color:#3b1d6e}details p{margin:8px 0 0}.clients a{display:inline-block;margin:0 8px 8px 0;padding:8px 12px;background:#efe7fb;border-radius:8px;color:#3b1d6e}.ad,.friends{background:#ece6f4;border-radius:10px;padding:14px 16px;margin-bottom:18px;font-size:15px}footer{background:#24143d;color:#ddd4ea;padding:22px 0;font-size:14px}footer a{color:#d7c6ff}@media (max-width:640px){h1{font-size:24px}header nav{font-size:14px}}</style><header><div class=\"wrap\"><div class=\"brand\">BASHBORAD</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#scenes\">使用场景</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\"><h1>BASHBORAD 官网：VPN 梯子网络加速与客户端下载</h1><p class=\"lead\">BASHBORAD 是面向跨境访问的官方机场与 VPN 加速服务。本页说明订阅套餐、多端客户端选择、节点用途与导入步骤，方便你在官网完成下载与配置。</p><p>若你需要稳定的梯子网络加速、流媒体解锁或游戏线路，可按设备选择客户端，再导入 BASHBORAD 机场订阅即可连接。</p></section><div class=\"layout\"><div class=\"col-main\"><section class=\"panel\" id=\"intro\"><h2>BASHBORAD 品牌简介</h2><p>BASHBORAD 官方网站以机场订阅为核心，把加密代理、分流规则与多协议客户端放在同一套服务里。我们服务个人用户与小团队，强调可预期的流量配额、可同时在线的设备数量，以及按场景区分的线路：日常浏览走普通节点池，影视走原生解锁节点，竞技与远程桌面可切换 IPLC 专线。</p><p>BASHBORAD VPN 并不把“全局翻墙”当作唯一目标。更常见的用法是：浏览器走代理访问协作文档，游戏走低延迟线路，手机仅在需要时开启分流。官方下载渠道提供 Windows、macOS、Android、iOS 及常见 Clash 内核配置，避免用户在来源不明的安装包中丢失订阅安全。</p><p>作为 BASHBORAD 官网，本页只描述可核验的套餐边界与操作路径。节点会随高峰与线路维护调整，实际速度取决于本地宽带与目标站点，不在此承诺固定测速数字。</p></section><section class=\"panel\" id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>视频会议、云盘同步和代码仓库在跨境链路上容易抖动。基础版即可覆盖三台设备的日常办公；需要同时登录更多终端时，可升级到旗舰版或团队版，把笔记本、公司主机和手机放在同一订阅下。</p><h3>流媒体与内容访问</h3><p>基础版解锁常见影视平台的基础线路。旗舰版强调全节点原生流媒体解锁，适合把智能电视、平板和手机一起接入。若出现地区版权墙，优先切换标注解锁的节点，而不是反复开关全局模式。</p><h3>游戏加速与实时对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与语音。团队版额外提供 VIP 高带宽节点，减少多人同时下载更新时的互相抢占。</p><h3>研究、站点备案查询与公开资料</h3><p>访问海外文献、开发者文档或公开数据集时，保持规则分流即可：国内直连、国外走 BASHBORAD 机场节点，降低无关流量消耗。</p></section><section class=\"panel\" id=\"guide\"><h2>操作说明</h2><p>完成购买后，按下列顺序配置。全程可在手机或电脑上操作，无需额外脚本。</p><ol class=\"steps\"><li>在 BASHBORAD 官网选择基础版、旗舰版或团队版，确认月付或年付价格后开通订阅。</li><li>进入用户中心复制订阅链接。该链接用于 Clash、Shadowrocket、Surge 等客户端批量更新节点。</li><li>打开本页客户端选择区，按系统下载官方推荐客户端，仅使用官网下载入口。</li><li>在客户端中选择“从 URL 导入”或“订阅管理”，粘贴链接并更新一次节点列表。</li><li>先测延迟再连接。办公选综合节点，看视频选解锁节点，游戏选手游或 IPLC 标注线路。</li><li>若更换设备，只要未超出套餐同时在线台数，导入同一订阅即可，不必重新购买。</li></ol><h3>分流与故障排查</h3><p>连不上时先检查本地时间是否准确、订阅是否过期、流量是否用尽。其次切换协议（如从普通代理改到更适合当前网络的隧道）。公司网络若拦截 UDP，可改用兼容 TCP 的配置。不要同时开启系统 VPN 与第二个加速器，以免路由冲突。</p></section></div><div class=\"col-side\"><section class=\"panel\" id=\"plans\"><h2>机场订阅套餐</h2><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul class=\"list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul class=\"list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul class=\"list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>流量按自然月重置。年付仅改变结算周期，不改变当月配额规则。团队版适合工作室共用，不建议把订阅链接公开发布。</p></section><section class=\"panel\" id=\"download\"><h2>节点与线路说明</h2><p>BASHBORAD 机场同时维护普通国际线路与专线。普通节点池覆盖浏览、消息与轻量下载；解锁节点用于影视平台的地区校验；IPLC 用于对抖动敏感的游戏与远程桌面。团队版可申请把办公网段加入定制路由，减少国内应用误走代理。</p><p>官方身份核验请认准本站域名与用户中心订单记录。客户端安装包与订阅均从 BASHBORAD 官网下载页获取。</p></section></div></div><section class=\"panel clients\" id=\"clients\"><h2>客户端选择与官方下载</h2><p>BASHBORAD 强调按设备选客户端，而不是安装多个加速器叠加。电脑优先使用 Clash 内核图形客户端或系统代理工具；手机使用支持订阅的应用；路由器可导入兼容的配置文件，让家中多设备共享一条订阅。</p><h3>桌面端</h3><p><a href=\"#windows\">Windows 官方客户端</a><a href=\"#macos\">macOS 官方客户端</a><a href=\"#clash\">Clash 订阅配置</a></p><p>Windows 适合全局或规则分流；macOS 可配合系统网络设置做按应用分流。导入后记得开启“自动更新订阅”，以免节点变更后仍连接旧地址。</p><h3>移动端</h3><p><a href=\"#android\">Android 官方下载</a><a href=\"#ios\">iOS 客户端指引</a></p><p>Android 可直接安装官网提供的安装包。iOS 请使用支持订阅的客户端导入 BASHBORAD 机场链接。蜂窝网络下建议开启分流，避免国内视频与支付类应用消耗套餐流量。</p><h3>进阶与网关</h3><p><a href=\"#router\">路由器/网关导入</a><a href=\"#surge\">Surge 配置说明</a></p><p>家庭网关导入后，智能电视与游戏主机无需逐台安装。团队版用户如需固定出口，可向客户经理申请定制路由，而不是在每台电脑上手工改规则。</p></section><section class=\"panel\" id=\"faq\"><h2>常见问题</h2><details><summary>BASHBORAD 是官方机场还是第三方搬运站？</summary><p>本页为 BASHBORAD 官方网站，套餐价格、设备台数与流量配额以用户中心订单为准。请通过官网下载客户端并复制订阅，不要在来源不明的聊天群接收“共享机场”链接。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先在套餐区开通服务，再进入客户端选择区按系统下载。打开应用后选择从 URL 导入，粘贴用户中心的订阅地址并更新节点。第一次连接建议选择延迟较低的普通节点，确认能打开网页后再切换解锁或游戏线路。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>一个人两到三台设备、以浏览和基础影视为主，选基础版。需要五台设备、原生流媒体和解锁游戏专线，选旗舰版。工作室或家庭网关需要更高流量和定制路由，选团队版。年付价格已在各套餐中标明，便于按年规划预算。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月流量用尽后新连接会被限制，次月配额重置后恢复。同时在线超过套餐台数时，后接入的设备可能无法握手。可临时断开闲置终端，或升级到更高档位。团队版 1000GB 与 20 台设备面向共用场景，仍建议避免把订阅公开。</p></details><details><summary>BASHBORAD VPN 能否稳定解锁流媒体？</summary><p>基础版提供基础流媒体解锁，满足常见平台的入门需求。旗舰版标注全节点原生解锁，成功率通常更高。若某个节点被版权系统识别，切换同地区其他解锁节点即可，不必反复重装客户端。</p></details><details><summary>官网下载的安装包是否需要关闭系统安全软件？</summary><p>不需要。请保持系统更新与安全软件开启，仅从 BASHBORAD 官网下载入口获取安装包。若智能拦截误报未知来源，可把官网目录加入信任，而不是关闭防护后安装来路不明的加速器。</p></details></section><aside class=\"ad\"><strong>广告</strong>：BASHBORAD 官方合作推广位。如需为企业线路或批量客户端部署做说明，请通过页面内官方入口了解套餐，而不是第三方代充。</aside><nav class=\"friends\"><strong>友情链接</strong>： <a href=\"#\">网络工具导航</a> · <a href=\"#\">流媒体地区说明</a> · <a href=\"#\">Clash 规则入门</a> · <a href=\"#\">远程办公安全提示</a> · <a href=\"#\">网站地图</a></nav></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>BASHBORAD 官方网站 · 机场订阅与 VPN 梯子网络加速服务 · 客户端请使用官网下载</p><p><a href=\"#intro\">关于</a> · <a href=\"#plans\">套餐</a> · <a href=\"#clients\">客户端</a> · <a href=\"#faq\">FAQ</a> · <a href=\"#\">返回首页</a></p><p>内容仅说明产品功能与操作路径，使用时应遵守所在地区与目标网站的规定。</p></div></footer>",
+          "hash": "8d93ea5421864f6bd6f55582bfa3a168a9d77ff6bdfc84aff27f3ffc85676a14",
+          "seo": {
+            "title": "BASHBORAD官网下载 | VPN梯子网络加速器与机场客户端",
+            "keywords": "BASHBORAD,BASHBORAD VPN,BASHBORAD机场,BASHBORAD官网,VPN梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "BASHBORAD 官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载，覆盖办公、流媒体与游戏场景，并给出清晰的套餐与操作说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pyemzf.cn",
+    "host": "p-32f72b7d7b.pyemzf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "pyemzf.cn",
+      "url": "https://pyemzf.cn/",
+      "label": "TiZiCloud",
+      "apex": "pyemzf.cn",
+      "kind": null,
+      "identity": "apcx3nqcm/page-5914befa56c8bd423cea41e3"
+    },
+    {
+      "host": "mo2q4l.cn",
+      "url": "https://mo2q4l.cn/",
+      "label": "BASHBORAD",
+      "apex": "mo2q4l.cn",
+      "kind": null,
+      "identity": "yjjocltc/page-b685605cbd86ac7a1d933e8d"
+    },
+    {
+      "host": "qwdnkq.cn",
+      "url": "https://qwdnkq.cn/",
+      "label": "BASHBORAD",
+      "apex": "qwdnkq.cn",
+      "kind": null,
+      "identity": "bunoobu/page-1b6bd5f30b61eb3d6bcaecb6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "94aa301ef196886968d0d753bb1cabf81d783b97e6d23ed9ac4a67b1f7034687",
+    "sitemap.xml": "bb0e4fcc2bb4db6a1cf62a87d2d00c97a1c5dbfa56ab90a8cb18000e99e76a9c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "003900c809307f8c0a44ea5195cdfe9d90e5cd665ce63de9556a02f0139d954c",
+    "robots.txt": "8569980f4aa3eafd92d5197d78b21605b81fdf529e31bfb7066bb9c3fe9f3e91",
+    "5bab52858f6b561f919c6674c2e314ac.txt": "ac4678fd495e6678555de1400d3d62be40b186990e17e3ade375bcdc81b62152"
+  },
+  "revision": "3a3e205fe65126ff3f352c3923bd6a90ce4bf9065e50b2e139f4b4897b56bde4"
+}
